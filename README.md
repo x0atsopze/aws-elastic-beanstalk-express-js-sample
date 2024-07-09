@@ -10,3 +10,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+Project Architecture
+![image](https://github.com/x0atsopze/aws-elastic-beanstalk-express-js-sample/assets/109428762/621a49c8-fd44-4149-a45f-7c4570a9bf47)

@@ -13,7 +13,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 
 ## Overview
-I created a continuous delivery pipeline for a simple web application. I made use of github as the version control system to store the application source code. Then, I leveraged AWS CodeBuild as CI tool to package, build and test the application. AWS CodePipeline on the other line helped me create a continuous delivery pipeline that automatically deployed the web application. I also integrated a manual approval process and configured a webook on the repository to triggera a new deployment whenever the source code is updated.
+I created a continuous delivery pipeline for a simple web application. I made use of github as the version control system to store the application source code. Then, I leveraged AWS CodeBuild as CI tool to package, build and test the application. AWS CodePipeline on the other hand helped me create a continuous delivery pipeline that automatically deployed the web application. I also integrated a manual approval process stage and configured a webook on the repository to trigger a new deployment whenever the source code is updated.
 
 
 
